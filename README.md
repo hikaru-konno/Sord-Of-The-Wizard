@@ -34,6 +34,6 @@ https://youtu.be/k4SLyvW7P2Y?si=-nqz-PI-V29mR3XM
 
 ## ゲームのプレイ方法
 - processing言語の[公式サイト](https://processing.org/download)からprocessingをダウンロードしてインストールします。
-- このリポジトリをクローンまたはダウンロードします。
+- このリポジトリをダウンロードします。
 - processingを起動して、ダウンロードしたpdeファイルを開きます。
 - 実行ボタンを押してゲームを開始します。
